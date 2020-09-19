@@ -5,7 +5,7 @@ Contributing to scikit-learn
 The latest contributing guide is available in the repository at
 `doc/developers/contributing.rst`, or online at:
 
-https://scikit-learn.org/dev/developers/contributing.html
+https://scikit-learn.org/stable/developers/contributing.html
 
 There are many ways to contribute to scikit-learn, with the most common ones
 being contribution of code or documentation to the project. Improving the
